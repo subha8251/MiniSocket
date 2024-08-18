@@ -1,0 +1,2 @@
+# MiniSocket
+Realtime chat application
